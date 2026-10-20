@@ -1,1 +1,2 @@
-Y3J5cHRvZ3JhcGh5CnJlcXVlc3RzCg==
+cryptography
+requests

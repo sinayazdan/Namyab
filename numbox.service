@@ -1,1 +1,13 @@
-W1VuaXRdCkRlc2NyaXB0aW9uPU51bWJlckJveCBwaG9uZSBsb29rdXAgKE5hbXlhYikKQWZ0ZXI9bmV0d29yay50YXJnZXQKCltTZXJ2aWNlXQpUeXBlPXNpbXBsZQpXb3JraW5nRGlyZWN0b3J5PS9vcHQvbnVtYm94CkV4ZWNTdGFydD0vdXNyL2Jpbi9weXRob24zIC9vcHQvbnVtYm94L2FwcC5weQpSZXN0YXJ0PWFsd2F5cwpSZXN0YXJ0U2VjPTUKCltJbnN0YWxsXQpXYW50ZWRCeT1tdWx0aS11c2VyLnRhcmdldAo=
+[Unit]
+Description=NumberBox phone lookup (Namyab)
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/opt/numbox
+ExecStart=/usr/bin/python3 /opt/numbox/app.py
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

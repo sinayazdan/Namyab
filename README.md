@@ -1,1 +1,45 @@
-IyDwn5OeINmG2KfZheKAjNuM2KfYqCAoTmFteWFiKQoK2KzYs9iq2KzZiNuMINin2LPZheKAjNmH2KfbjNuMINqp2Ycg2KjZgtuM2Ycg2KjYsdin24wg24zZhyDYtNmF2KfYsdmHINiq2YTZgdmGINiq2Ygg2q/ZiNi024zYtNmI2YYg2LDYrtuM2LHZhyDaqdix2K/ZhiDigJQg2YbYs9iu2Ycg2YHYp9ix2LPbjCDZiCDYs9in2K7YqtmH4oCM2LTYr9mHINin2LIg2LXZgdixLgoKIyMg2obbjCDaqdin2LEg2YXbjOKAjNqp2YbZh9ifCgrYtNmF2KfYsdmHINiq2YTZgdmGINix2Ygg2KjYpyDaqdivINqp2LTZiNixINmI2KfYsdivINmF24zigIzaqdmG24wgKNmF2KvZhNin2YsgYCs5ODkxMjM0NTY3ODlgKSDZiCDYqNix2YXbjOKAjNqv2LHYr9mI2YbZhyDZhNuM2LPYqiDYp9iz2YXigIzZh9in24zbjCDaqdmHINii2K/ZheKAjNmH2KfbjCDZhdiu2KrZhNmBINin24zZhiDYtNmF2KfYsdmHINix2Ygg2KjYp9mH2KfYtCDYsNiu24zYsdmHINqp2LHYr9mGLgoKIyMg2YXYudmF2KfYsduMCgrZvtix2YjYqtqp2YQg2KfZviDYp9mG2K/YsdmI24zYryBOdW1iZXJCb3ggKNmG2LPYrtmHIDcuOS4zKSDZhdmH2YbYr9iz24wg2YXYudqp2YjYsyDYtNiv2Yc6CgotICoq2LHZhdiy2Ybar9in2LHbjCDYr9mIINmE2KfbjNmHIEFFUy1DQkMqKiDigJQg2qnZhNuM2K/Zh9inINin2LIg2K/Yp9iu2YQgQVBLINin2LPYqtiu2LHYp9isINi02K/ZhgotICoq2LPYsdiq24zZgduM2qnbjNiqINin2YXYttin24wg2KfZvioqINio2LHYp9uMINin2K3Ysdin2LIg2YfZiNuM2Kog2K/Ysdiu2YjYp9iz2KoKLSAqKtis2LnZhCDZh9mI24zYqiDYp9m+INin2YbYr9ix2YjbjNivKiog4oCUINmH2K/YsSBgVXNlci1BZ2VudDogb2todHRwLzQuMTIuMGAg2YggYERldmljZTogYW5kcm9pZGAKLSDYr9ix2K7ZiNin2LPYqiDYqNmHIGBhcGkubnVtYmVyYm94LmFwcC9zZWFyY2hgINin2LHYs9in2YQg2YXbjOKAjNi02YcKCiMjINin2KzYsdinCgpgYGBiYXNoCnBpcCBpbnN0YWxsIGNyeXB0b2dyYXBoeSByZXF1ZXN0cwpweXRob24zIGFwcC5weQpgYGAKCtio2LnYryDYqNix2Ygg2KjZhyBgaHR0cDovL2xvY2FsaG9zdDo4OTAxYAoKIyMg2K/bjNm+2YTZiNuMINio2Kcgc3lzdGVtZAoKYGBgYmFzaApzdWRvIGNwIG51bWJveC5zZXJ2aWNlIC9ldGMvc3lzdGVtZC9zeXN0ZW0vCnN1ZG8gc3lzdGVtY3RsIGVuYWJsZSAtLW5vdyBudW1ib3gKYGBgCgojIyDYs9in2K7Yqtin2LEKCnwg2YHYp9uM2YQgfCDYqtmI2LbbjNitIHwKfC0tLS0tLXwtLS0tLS0tfAp8IGBhcHAucHlgIHwg2KjaqeKAjNin2YbYryDZvtin24zYqtmI2YYgKNmB2YLYtyDaqdiq2KfYqNiu2YjZhtmHINin2LPYqtin2YbYr9in2LHYryArIGNyeXB0b2dyYXBoeSDZiCByZXF1ZXN0cykgfAp8IGBpbmRleC5odG1sYCB8INmB2LHYp9mG2KrigIzYp9mG2K8g2YHYp9ix2LPbjCDYsdin2LPYquKAjNio2YfigIzahtm+IHwKfCBgY2VydF9iNjQudHh0YCB8INiz2LHYqtuM2YHbjNqp24zYqiBERVIg2KfZviAoYmFzZTY0KSB8CnwgYG51bWJveC5zZXJ2aWNlYCB8INmB2KfbjNmEINiz2LHZiNuM2LMgc3lzdGVtZCB8CgojIyDZhtqp2KrZhwoK2KfbjNmGINm+2LHZiNqY2Ycg2KjYsdin24wg2KfZh9iv2KfZgSDYotmF2YjYsti024wg2LPYp9iu2KrZhyDYtNiv2YcuIEFQSSDYs9mF2Kog2LPYsdmI2LEg2YXYqti52YTZgiDYqNmHIE51bWJlckJveCDZh9iz2KouCg==
+# 📞 نام‌یاب (Namyab)
+
+جستجوی اسم‌هایی که بقیه برای یه شماره تلفن تو گوشیشون ذخیره کردن — نسخه فارسی و ساخته‌شده از صفر.
+
+## چی کار می‌کنه؟
+
+شماره تلفن رو با کد کشور وارد می‌کنی (مثلاً `+989123456789`) و برمی‌گردونه لیست اسم‌هایی که آدم‌های مختلف این شماره رو باهاش ذخیره کردن.
+
+## معماری
+
+پروتکل اپ اندروید NumberBox (نسخه 7.9.3) مهندسی معکوس شده:
+
+- **رمزنگاری دو لایه AES-CBC** — کلیدها از داخل APK استخراج شدن
+- **سرتیفیکیت امضای اپ** برای احراز هویت درخواست
+- **جعل هویت اپ اندروید** — هدر `User-Agent: okhttp/4.12.0` و `Device: android`
+- درخواست به `api.numberbox.app/search` ارسال می‌شه
+
+## اجرا
+
+```bash
+pip install cryptography requests
+python3 app.py
+```
+
+بعد برو به `http://localhost:8901`
+
+## دیپلوی با systemd
+
+```bash
+sudo cp numbox.service /etc/systemd/system/
+sudo systemctl enable --now numbox
+```
+
+## ساختار
+
+| فایل | توضیح |
+|------|-------|
+| `app.py` | بک‌اند پایتون (فقط کتابخونه استاندارد + cryptography و requests) |
+| `index.html` | فرانت‌اند فارسی راست‌به‌چپ |
+| `cert_b64.txt` | سرتیفیکیت DER اپ (base64) |
+| `numbox.service` | فایل سرویس systemd |
+
+## نکته
+
+این پروژه برای اهداف آموزشی ساخته شده. API سمت سرور متعلق به NumberBox هست.
